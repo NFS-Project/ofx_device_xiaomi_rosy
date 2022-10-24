@@ -1,0 +1,5 @@
+# Platform
+ro.board.platform=msm8953
+
+# Keystore
+ro.hardware.keystore=msm8953
