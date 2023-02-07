@@ -21,7 +21,7 @@ TARGET_PREBUILT_KERNEL := $(DEVICE_PATH)/prebuilt/Image.gz-dtb
 TW_HAS_EDL_MODE := false
 
 # brightness
-TW_MAX_BRIGHTNESS := 255
+TW_MAX_BRIGHTNESS := 4080
 TW_DEFAULT_BRIGHTNESS := 145
 
 # Recovery
