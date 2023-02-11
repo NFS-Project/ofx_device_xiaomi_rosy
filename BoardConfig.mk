@@ -22,6 +22,10 @@ TARGET_BOARD_SUFFIX := _64
 # Kernel
 TARGET_PREBUILT_KERNEL := $(DEVICE_PATH)/prebuilt/Image.gz-dtb
 
+# Bootloader
+TARGET_BOOTLOADER_BOARD_NAME := MSM8953
+TARGET_NO_BOOTLOADER := true
+
 # no EDL mode
 TW_HAS_EDL_MODE := false
 
